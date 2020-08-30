@@ -1,0 +1,11 @@
+
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÞÖ¸8®é¤×Â.
+ˆ
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.( ®‹ûÿÿÿÿ8®é¤×Â.
+ˆ
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(¸©üðøÿÿÿÿ8®é¤×Â.
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.( ®‹ûÿÿÿÿ8®é¤×Â.
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¸©üðøÿÿÿÿ8®é¤×Â.
